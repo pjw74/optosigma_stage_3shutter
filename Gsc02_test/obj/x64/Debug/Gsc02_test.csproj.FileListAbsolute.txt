@@ -1,0 +1,80 @@
+C:\Users\PJW\source\repos\Gsc02_test\Gsc02_test\bin\x64\Debug\Gsc02_test.exe.config
+C:\Users\PJW\source\repos\Gsc02_test\Gsc02_test\bin\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\source\repos\Gsc02_test\Gsc02_test\bin\x64\Debug\Gsc02_test.pdb
+C:\Users\PJW\source\repos\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.AssemblyReference.cache
+C:\Users\PJW\source\repos\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.Form1.resources
+C:\Users\PJW\source\repos\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.Properties.Resources.resources
+C:\Users\PJW\source\repos\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.GenerateResource.cache
+C:\Users\PJW\source\repos\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.CoreCompileInputs.cache
+C:\Users\PJW\source\repos\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\source\repos\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\4. OptoSigma 스테이지\Gsc02_test\Gsc02_test\bin\x64\Debug\Gsc02_test.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\4. OptoSigma 스테이지\Gsc02_test\Gsc02_test\bin\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\4. OptoSigma 스테이지\Gsc02_test\Gsc02_test\bin\x64\Debug\Gsc02_test.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\4. OptoSigma 스테이지\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.AssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\4. OptoSigma 스테이지\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\4. OptoSigma 스테이지\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\4. OptoSigma 스테이지\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\4. OptoSigma 스테이지\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\4. OptoSigma 스테이지\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\4. OptoSigma 스테이지\Gsc02_test\Gsc02_test\obj\x64\Debug\Gsc02_test.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\bin\x64\Debug\Gsc02_test.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\bin\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\bin\x64\Debug\Gsc02_test.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.AssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\bin\x64\Debug\Gsc02_test.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\bin\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\bin\x64\Debug\Gsc02_test.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.AssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\5. 납품건\4. Opto + lts + 3shutter\2. Gsc02_3shutter_1020_v1\Gsc02_test\obj\x64\Debug\Gsc02_test.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\bin\x64\Debug\Gsc02_test.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\bin\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\bin\x64\Debug\Gsc02_test.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.AssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\obj\x64\Debug\Gsc02_test.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\obj\x64\Debug\Gsc02_test.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\obj\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\3. Gsc02_3shutter_1020_v2\Gsc02_test\obj\x64\Debug\Gsc02_test.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\bin\x64\Debug\Gsc02_test.exe.config
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\bin\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\bin\x64\Debug\Gsc02_test.pdb
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.PrivateInternal.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.Common.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.Logging.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\bin\x64\Debug\Thorlabs.MotionControl.Tools.WPF.dll
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.AssemblyReference.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\obj\x64\Debug\Gsc02_test.Form1.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\obj\x64\Debug\Gsc02_test.Properties.Resources.resources
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.GenerateResource.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.CoreCompileInputs.cache
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\obj\x64\Debug\Gsc02_test.csproj.CopyComplete
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\obj\x64\Debug\Gsc02_test.exe
+C:\Users\PJW\Desktop\박정우백업\Desktop\1. Stage_Code\1. 원광대\7. Optosigma + 3shutter\4. Gsc02_3shutter_1104_v3\Gsc02_test\obj\x64\Debug\Gsc02_test.pdb
